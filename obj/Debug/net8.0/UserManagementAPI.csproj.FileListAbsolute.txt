@@ -31,3 +31,4 @@
 /Users/sergeypchelintsev/Documents/Projects/Experimental/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.pdb
 /Users/sergeypchelintsev/Documents/Projects/Experimental/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.genruntimeconfig.cache
 /Users/sergeypchelintsev/Documents/Projects/Experimental/UserManagementAPI/obj/Debug/net8.0/ref/UserManagementAPI.dll
+/Users/sergeypchelintsev/Documents/Projects/Experimental/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.sourcelink.json
